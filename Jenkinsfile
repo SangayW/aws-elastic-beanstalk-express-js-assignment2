@@ -19,7 +19,7 @@ pipeline {
             echo 'Build successfull!'
         }
         failure {
-            echo 'Build failed'.
+            echo 'Build failed.'
         }
     }
 }
